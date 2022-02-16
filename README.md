@@ -1,2 +1,1 @@
-# SDE-sheet
-My First Repository On Github
+#  Striver SDE-sheet
